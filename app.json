@@ -1,13 +1,13 @@
 {
-  "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗭𝗘𝗗",
-  "description": "⿻ سورس زد ثـون ™ افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬────────────────────𝙎𝙊𝙐𝙍𝘾𝞝_𝙕𝞝𝘿 : @ZedThon",
-  "logo": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
+  "name": "جيبثون العربي",
+  "description": "⿻ سورس جيبثون افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬──────────────────── : @Jepthon",
+  "logo": "https://telegra.ph/file/d94c222c321f6d3352842.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Zedthon/ZED_USERBOT/",
+  "repository": "https://github.com/USERBOTJEPTHON/JEPTHON-AR/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -31,6 +31,11 @@
       "description": "لتغير بيها شي",
       "value": "ANYTHING"
     },
+    "COMMAND_HAND_LER": {
+      "description": "لا تغيـرها ابدا",
+      "value": ".",
+      "required": false
+    },
     "TG_BOT_USERNAME": {
       "description": "معرف البوت",
       "value": ""
@@ -39,42 +44,6 @@
       "description": " توكن البوت - يجب وضع البوت انلاين مود من اعدادات بوت فاذر",
       "value": ""
     },
-    "COMMAND_HAND_LER": {
-      "description": "اشارة الامر . عوفهـا مو مهمه, ' `",
-      "value": ".",
-      "required": false
-    },
-    "PMPERMIT_PIC": {
-      "description": "رابـط صورة تليكـراف - لتغيـرها ",
-      "value": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
-      "required": false
-    },
-    "MAX_FLOOD_IN_P_M_s": {
-      "description": "عدد الرسائل - يفضل تعوفها ",
-      "value": "5",
-      "required": false
-    },
-    "PRIVATE_GROUP_ID": {
-      "description": "الكروب - يفضل تعوفها",
-      "value": "",
-      "required": false
-    },
-    "CUSTOM_PMPERMIT_TEXT": {
-      "description": " الكليشه الحمايه - يفضل تعوفها مو مهمـه",
-      "value": "",
-      "required": false
-    },
-    "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "ايدي الكروب - يفضل تعوفها",
-      "value": "",
-      "required": false
-    },
-    "OWNER_ID": {
-      "description": "ايدي حسابك - تروح ع اي كروب وتدز ايديي",
-      "value": "",
-      "required": false
-    },
-
     "HEROKU_API_KEY": {
       "description": "هيروكو ابي كي تنسخ الرابط وتفتح صفحه جديده وتروح ع آخر مربع وتلصقه هون تحت  https://dashboard.heroku.com/account",
       "value": "",
@@ -92,7 +61,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "zed ",
+      "value": "https://github.com/USERBOTJEPTHON/JEPTHON-AR",
       "required": false
     }
   },
