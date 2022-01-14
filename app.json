@@ -1,13 +1,13 @@
 {
-  "name": "جيبثون العربي",
-  "description": "⿻ سورس جيبثون افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬──────────────────── : @Jepthon",
-  "logo": "https://telegra.ph/file/d94c222c321f6d3352842.jpg",
+  "name": "فيرسون العربي",
+  "description": "⿻ سورس فيرسون افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬──────────────────── : @BU_QH",
+  "logo": "https://telegra.ph/file/caeaea3784e7679cd4025.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/USERBOTJEPTHON/JEPTHON-AR/",
+  "repository": "https://github.com/verson2005/Catuserbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -55,8 +55,8 @@
       "required": false
     },
     "TZ": {
-      "description": "منطقتك - عوفها ",
-      "value": "Asia/Baghdad",
+      "description": "المنطقة",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
