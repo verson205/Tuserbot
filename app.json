@@ -60,8 +60,8 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رمز السورس - لتلعب ",
-      "value": "https://github.com/USERBOTJEPTHON/JEPTHON-AR",
+      "description": "سيبها زي ما هي لا تلعب فيها",
+      "value": "https://github.com/verson2005/Catuserbot",
       "required": false
     }
   },
